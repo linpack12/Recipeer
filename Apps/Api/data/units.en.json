@@ -1,0 +1,16 @@
+{
+  "tbsp": "tbsp", "tablespoon": "tbsp", "tablespoons": "tbsp",
+  "tsp": "tsp", "teaspoon": "tsp", "teaspoons": "tsp",
+  "cup": "cup", "cups": "cup",
+  "oz": "oz", "ounce": "oz", "ounces": "oz",
+  "lb": "lb", "pound": "lb", "pounds": "lb",
+  "msk": "tbsp", "matsked": "tbsp", "matskedar": "tbsp",
+  "tsk": "tsp", "tesked": "tsp", "teskedar": "tsp",
+  "krm": "ml",
+  "dl": "dl", "cl": "cl", "ml": "ml", "l": "l",
+  "g": "g", "gram": "g", "kg": "kg",
+  "st": "pc", "styck": "pc", "stycken": "pc",
+  "pkt": "pack", "paket": "pack", "förp": "pack", "förpackning": "pack", "förpackningar": "pack",
+  "burk": "can", "burkar": "can",
+  "%": "%"
+}

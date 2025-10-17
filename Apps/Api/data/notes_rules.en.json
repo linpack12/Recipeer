@@ -1,0 +1,18 @@
+{
+  "trailing_phrases": [
+    "(?:to\\s+.+)$",
+    "(?:for\\s+.+)$",
+    "(?:for\\s+serving.*)$",
+    "(?:to\\s+serve.*)$",
+    "(?:as\\s+garnish.*)$",
+    "(?:to\\s+taste.*)$"
+  ],
+  "leading_adverbs": [
+    "optional",
+    "if\\s+desired",
+    "to\\s+taste"
+  ],
+  "cleanup": {
+    "normalize_a_pack": true
+  }
+}

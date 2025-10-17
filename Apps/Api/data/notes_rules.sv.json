@@ -1,0 +1,21 @@
+{
+  "trailing_phrases": [
+    "(?:att\\s+.+)$",
+    "(?:för\\s+.+)$",
+    "(?:till\\s+.+)$",
+    "(?:vid\\s+servering.*)$",
+    "(?:till\\s+servering.*)$",
+    "(?:som\\s+garnityr.*)$",
+    "(?:som\\s+topping.*)$",
+    "(?:efter\\s+smak.*)$"
+  ],
+  "leading_adverbs": [
+    "gärna",
+    "ev\\.?|eventuellt",
+    "valfritt",
+    "om\\s+du\\s+vill"
+  ],
+  "cleanup": {
+    "normalize_a_pack": true
+  }
+}

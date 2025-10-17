@@ -1,0 +1,53 @@
+{
+  "g": "g",
+  "gr": "g",
+  "gram": "g",
+
+  "kg": "kg",
+  "hg": "hg",
+  "mg": "mg",
+
+  "ml": "ml",
+  "cl": "cl",
+  "dl": "dl",
+  "l": "l",
+  "liter": "l",
+
+  "msk": "msk",
+  "matsked": "msk",
+  "matskedar": "msk",
+
+  "tsk": "tsk",
+  "tesked": "tsk",
+  "teskedar": "tsk",
+
+  "krm": "krm",
+  "kryddmått": "krm",
+  "kryddmåttar": "krm",
+
+  "st": "st",
+  "styck": "st",
+  "stycken": "st",
+
+  "klyfta": "klyfta",
+  "klyftor": "klyfta",
+  "skiva": "skiva",
+  "skivor": "skiva",
+  "bit": "bit",
+  "bitar": "bit",
+
+  "förp": "förp",
+  "förpackning": "förp",
+  "förpackningar": "förp",
+  "pkt": "förp",
+  "paket": "förp",
+
+  "burk": "burk",
+  "burkar": "burk",
+  "påse": "påse",
+  "påsar": "påse",
+  "rulle": "rulle",
+  "rullar": "rulle",
+
+  "%": "%"
+}

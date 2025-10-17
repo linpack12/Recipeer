@@ -19,7 +19,7 @@ class InstructionStep(BaseModel):
 class RecipeBase(BaseModel): 
     title: str
     description: Optional[str] = None
-    ingridients: List[Ingredient] = Field(default_factory=list)
+    ingredients: List[Ingredient] = Field(default_factory=list)
     steps: List[InstructionStep] = Field(default_factory=list)
     servings: Optional[str] = None
     total_time: Optional[str] = None
